@@ -1,5 +1,3 @@
-Sure, here's the complete README in Markdown format:
-
 ```markdown
 # Bitcoin Price Prediction using LSTM
 
@@ -87,5 +85,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 This project uses TensorFlow and Keras for building and training the LSTM model. Special thanks to the open-source community for providing these powerful tools.
 ```
-
-You can save this content in a `README.md` file and include it in your project repository on GitHub. Adjust the repository URL, your username, and any other specifics as needed.
