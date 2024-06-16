@@ -3,16 +3,6 @@
 
 This project uses an LSTM (Long Short-Term Memory) neural network to predict future Bitcoin prices based on historical weekly closing prices.
 
-## Project Structure
-
-```
-.
-├── bitcoin_weekly_closing_prices.csv   # CSV file with historical Bitcoin prices
-├── train_lstm.py                      # Script to train the LSTM model
-├── predict_future_price.py            # Script to predict future Bitcoin prices
-└── README.md                          # This readme file
-```
-
 ## Installation
 
 1. **Clone the repository**:
