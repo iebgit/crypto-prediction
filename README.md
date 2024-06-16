@@ -1,4 +1,4 @@
-```markdown
+
 # Bitcoin Price Prediction using LSTM
 
 This project uses an LSTM (Long Short-Term Memory) neural network to predict future Bitcoin prices based on historical weekly closing prices.
@@ -53,7 +53,7 @@ This will:
 To predict future Bitcoin prices, run the `predict_future_price.py` script:
 
 ```sh
-python predict_future_price.py
+python predict_price.py
 ```
 
 This will:
@@ -65,10 +65,10 @@ This will:
 
 ## Example
 
-To predict the Bitcoin price on a specific date, ensure the `predict_future_price.py` script has the correct target date set and run it:
+To predict the Bitcoin price on a specific date, ensure the `predict_price.py` script has the correct target date set and run it:
 
 ```sh
-python predict_future_price.py
+python predict_price.py
 ```
 
 The output will display the predicted price on the specified future date.
@@ -84,4 +84,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 This project uses TensorFlow and Keras for building and training the LSTM model. Special thanks to the open-source community for providing these powerful tools.
-```
+
